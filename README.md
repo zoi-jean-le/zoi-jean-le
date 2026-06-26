@@ -4,7 +4,7 @@
 
 # Jean-Michel LE
 
-**IoT & Robotics Engineer &nbsp;·&nbsp; ZOI Tech**
+**IoT & Software Engineer &nbsp;·&nbsp; Zoi Tech**
 
 <br/>
 
@@ -35,18 +35,10 @@ Connected robotic solutions for Kärcher's industrial automation platform — se
 
 ---
 
-### 📅 Contribution Activity
-
-![Isometric contribution calendar](metrics.plugin.isocalendar.svg)
-
-<sub>↻ &nbsp;Auto-updated every 12 h via GitHub Actions &nbsp;·&nbsp; powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub>
-
----
-
 <div align="center">
 
 **[🌐 &nbsp; zoi-jean-le.github.io](https://zoi-jean-le.github.io)**
 
-<sub>ZOI Tech &nbsp;·&nbsp; 2026</sub>
+<sub>Zoi Tech &nbsp;·&nbsp; 2026</sub>
 
 </div>
