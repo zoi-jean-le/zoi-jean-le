@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://lh3.googleusercontent.com/a-/ALV-UjVmDJ2AAvOPS2nTK-7cNSGyjWdXsou8fCntAuVZ5bVLdVlwaHk=s1000" width="120" />
-
 # Jean-Michel LE
 
 **IoT & Software Engineer &nbsp;·&nbsp; Zoi Tech**
